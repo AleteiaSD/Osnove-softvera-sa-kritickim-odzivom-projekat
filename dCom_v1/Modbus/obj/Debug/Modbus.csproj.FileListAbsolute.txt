@@ -1,0 +1,18 @@
+C:\Users\TheMachine\Desktop\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\bin\Debug\Modbus.dll
+C:\Users\TheMachine\Desktop\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\bin\Debug\Modbus.pdb
+C:\Users\TheMachine\Desktop\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\bin\Debug\Common.dll
+C:\Users\TheMachine\Desktop\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\bin\Debug\Common.pdb
+C:\Users\TheMachine\Desktop\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\obj\Debug\Modbus.csprojAssemblyReference.cache
+C:\Users\TheMachine\Desktop\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\TheMachine\Desktop\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\TheMachine\Desktop\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\obj\Debug\Modbus.dll
+C:\Users\TheMachine\Desktop\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\obj\Debug\Modbus.pdb
+C:\Users\stevan\Desktop\New folder\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\bin\Debug\Modbus.dll
+C:\Users\stevan\Desktop\New folder\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\bin\Debug\Modbus.pdb
+C:\Users\stevan\Desktop\New folder\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\bin\Debug\Common.dll
+C:\Users\stevan\Desktop\New folder\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\bin\Debug\Common.pdb
+C:\Users\stevan\Desktop\New folder\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\stevan\Desktop\New folder\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\stevan\Desktop\New folder\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\stevan\Desktop\New folder\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\obj\Debug\Modbus.dll
+C:\Users\stevan\Desktop\New folder\Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima\dCom_v1\Modbus\obj\Debug\Modbus.pdb
